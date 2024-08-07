@@ -7,7 +7,8 @@ public class Main {
         List<Integer> numeros= new ArrayList<>();
 
         numeros.add(3);
-        numeros.add(5);
+        numeros.add(4);
+        numeros.add(6);
         numeros.addLast(9);
 
         for (int i = 0; i < numeros.size(); i++){
