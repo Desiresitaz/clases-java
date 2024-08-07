@@ -9,6 +9,7 @@ public class Main {
         numeros.add(3);
         numeros.add(4);
         numeros.add(6);
+        numeros.add(10);
         numeros.addLast(9);
 
         for (int i = 0; i < numeros.size(); i++){
